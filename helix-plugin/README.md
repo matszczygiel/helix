@@ -5,7 +5,7 @@ The intend is to take inspiration from [CodeMirror 6](https://codemirror.net/6/d
 
 Plugins for Helix are written in any language that can be compiled to WASM (Web Assembly).
 This implies:
-- No language language-lockin, user can use what he's most confortable with to extend and customize his experience.
+- No language language lock-in, user can use what they're most comfortable with to extend and customize their experience.
 - Sandboxing, a plugin can do only what it has been allowed to.
 - Portability, .wasm and .wat files are platform agnostic and can be packaged as is for any platform.
 
